@@ -1,4 +1,4 @@
-# CIS-199
+# CIS 199---Lab 2
 This lab explores the use of Visual Studio to create a simple GUI application with numeric input, calculations, 
 and output formatting. 
 
