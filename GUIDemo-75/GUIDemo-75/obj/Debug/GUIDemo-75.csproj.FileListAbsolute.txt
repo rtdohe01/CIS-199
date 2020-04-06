@@ -1,0 +1,20 @@
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\bin\Debug\GUIDemo-75.exe.config
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\bin\Debug\GUIDemo-75.exe
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\bin\Debug\GUIDemo-75.pdb
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.csprojAssemblyReference.cache
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo_75.Form1.resources
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo_75.Properties.Resources.resources
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.csproj.GenerateResource.cache
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.exe
+C:\Users\Ross\Desktop\cis 199\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.pdb
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\bin\Debug\GUIDemo-75.exe.config
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\bin\Debug\GUIDemo-75.exe
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\bin\Debug\GUIDemo-75.pdb
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.csprojAssemblyReference.cache
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo_75.Form1.resources
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo_75.Properties.Resources.resources
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.csproj.GenerateResource.cache
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.exe
+C:\Users\Ross\Downloads\1549322033235-7309092176913716967\GUIDemo-75\GUIDemo-75\obj\Debug\GUIDemo-75.pdb
